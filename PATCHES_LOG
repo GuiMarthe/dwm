@@ -1,0 +1,8 @@
+
+
+
+
+
+autostart https://dwm.suckless.org/patches/autostart/dwm-autostart-20161205-bb3bd6f.diff https://dwm.suckless.org/patches/autostart/dwm-autostart-20210120-cb3f58a.diff
+
+gaps https://dwm.suckless.org/patches/gaps/dwm-gaps-6.0.diff
